@@ -2,7 +2,7 @@
 
 一个按「真实持有成本」排序的电吉他榜单，收录 **95 款**在售型号。
 
-在线访问：https://&lt;你的GitHub用户名&gt;.github.io/qidu/
+在线访问：https://coryway.github.io/Geraindex/
 
 ---
 
