@@ -1,0 +1,37 @@
+# ===== 浏览器登录态与凭证：永不入库 =====
+*profile*/
+**/Cookies
+**/Cookies-journal
+**/Vpn Tokens*
+**/Trust Tokens*
+**/Tokenized-Card/
+diag_cookies.json
+*.sqlite
+*.db
+
+# ===== 抓取内核与配置：按发布决策排除 =====
+**/*.py
+**/*.pyc
+**/__pycache__/
+**/config.json
+**/_selftest_baseline*.json
+**/registry.json
+**/_source_fingerprint.json
+
+# ===== 内部工作区 =====
+.workbuddy/
+deliverables/
+_过目/
+Fender_Project_Backup/
+
+# ===== 备份与日志 =====
+**/*.bak*
+**/备份_*
+**/_bak_*
+**/*.log
+**/_*.png
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
+desktop.ini
